@@ -113,13 +113,3 @@ Output:
 * Model selection option
 * Better project structure
 
----
-
-## About me
-
-Prashanth
-BCA student, currently learning data science and building small projects like this to get better.
-
----
-
-This project isn’t perfect, but it’s a solid step forward.
