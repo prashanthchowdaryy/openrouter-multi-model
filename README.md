@@ -26,7 +26,6 @@ I made this to experiment with different LLMs (Gemini, Grok, DeepSeek, Kimi) in 
 All of these are accessed through OpenRouter.
 
 ---
-
 ## Why I built this
 
 At first, I was just calling APIs and printing responses.
