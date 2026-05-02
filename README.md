@@ -4,7 +4,6 @@ A simple multi-model AI chatbot built using OpenRouter.
 I made this to experiment with different LLMs (Gemini, Grok, DeepSeek, Kimi) in one place, instead of switching between tools. The goal was to understand how these models behave, how reasoning works, and how to manage things like tokens, errors, and responses properly.
 
 ---
-
 ## What this project does
 
 * Connects to multiple AI models through OpenRouter
